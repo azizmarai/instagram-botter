@@ -2,7 +2,7 @@ import os;import version;import github;import owner;import instas;import instagr
 owner.name=("natrix")
 github.url=("https://github.com/natrixdev") 
 
-requirements = "https://github.com/natrixdev/instagram-botter/blob/main/reqs.txt"
+requirements = "https://www.instagram.com/weakest_egolifter1/"
 
 owner_repos = "https://github.com/natrixdev?tab=repositories"
 howto_use="https://github.com/natrixdev/instagram-botter/blob/main/README.md"         
@@ -15,13 +15,13 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
-   if account_name=="":
-     print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
+ account_name=input("weakest_egolifter1 ? ")
+   if account_name=="weakest_egolifter1":
+     print('aa')
+   else if req.on(`https://www.instagram.com/weakest_egolifter1//%weakest_egolifter1%`)==Flase:
      print('I didnt found your instagram account')
- print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("followers:')
+ print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("1000");
    choose=input('> ')
        if choose=="1":
           url=input('Paste your instagram post url (your account need to be public')
